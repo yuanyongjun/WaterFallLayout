@@ -1,0 +1,22 @@
+﻿*{
+	margin:0;
+	padding:0;
+}
+#main{
+	position: relative;
+}
+.box{
+	padding:15px 0 0 15px;
+	float:left;
+}
+.pic{
+	border:1px solid #ddd;
+}
+.pic img{
+	width: 165px;
+}
+/*#main{
+    -webkit-column-width:202px;
+    -moz-column-width:202px;
+    column-width:202px;
+}*/
